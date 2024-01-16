@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+	<title> Welcome to INFM212 Web Development:1W1 </title>
+</head>
+<body>
+	<h1>Welcome to INFM212 Web Development: 1W1<h1>
+	<br>
+	<h3> About me:</h3>
+
+	<img src = "IMG_4191.jpg" width ="40%">
+	<p> Welcome! My name is David Stroud and I'm from Savannah Georgia. I recieved my associates Degree from Georgia Southern and now my current major is Software Development. This is my seond semester at Mercer and my last semester as Junior. I currently work in healthcare as a patient care technician. I have two wonderful children, Luke and Everly who keep me busy!<p>
+	<br> If you need to contact me, my e-mail is 10956493@live.mercer.edu
+	<h3> Text Code Practice:</h3>
+	<br>
+
+	<h3> Labs:</h3>
+	<ol>
+		<li>Lab 1 - Family Site</li>
+		<li>Lab 2 - Multimedia Components</li>
+		<li>Lab 3 - Form</li>
+	</ol>
+	<br>
+
+	<h3> Projects in HTML/CSS:</h3>
+	<ol>
+		<li>User and Task Analysis</li>
+		<li>Site Structure</li>
+		<li>Website</li>
+		<li>Prototype
+	</ol>
+	<br>
+	<h3> Final Projects in Word Press:</h3>
+	<br>
+	&copy; Copyright All Reserved 2023
+
+</body>
+
+</html>
+
+
+
